@@ -1,6 +1,8 @@
 # MindSpace 🌟
 Your Friend for Emotional Well-being and Mindfulness
 
+![MindSpace Demo](./assets/mindspace.png)
+
 ## Overview
 MindSpace is a beautifully designed mobile application focused on enhancing emotional well-being and mindfulness. Whether you're looking to start your day with positivity, practice meditation, or engage with a supportive community, MindSpace provides a holistic solution for mental health. With an intuitive and vibrant interface, MindSpace offers a variety of features to cater to different aspects of self-care.
 
