@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Primary Colors-->
+    <color name="bgColorLight">#1D89A0</color>
+    <color name="bgColorDark">#0E042C</color>
+    <color name="darkblue">#2F1E61</color>
+
+    <!--Secondary Colors (Text)-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Accent Colors (Buttons)-->
+    <color name="sky">#D9D9D9</color>
+    <color name="btn">#0E042C</color>
+</resources>

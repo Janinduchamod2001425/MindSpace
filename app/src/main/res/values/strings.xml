@@ -1,0 +1,103 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MindSpace</string>
+
+    <!--Onboard Screen 1-->
+    <string name="onboardTitle">Welcome to MindSpace</string>
+    <string name="onboardSubtitle">Your friend for</string>
+    <string name="onboardSubtitle1">Emotional Well-Being</string>
+    <string name="btnSkip">Skip</string>
+    <string name="btnNext">Next</string>
+
+    <!--Onboard Screen 2-->
+    <string name="onboard2Title">Key Features</string>
+    <string name="btn2Skip">Skip</string>
+    <string name="btn2Next">Next</string>
+
+    <!--SignUp Screen-->
+    <string name="signUp">Sign Up</string>
+    <string name="subTitle1">Create an account to get started</string>
+    <string name="subTitle2">on your health and happiness journey</string>
+    <string name="Google">Continue with Google</string>
+    <string name="Apple">Continue with Apple</string>
+    <string name="Facebook">Continue with Facebook</string>
+    <string name="alreadyHaveAcc">Already have an account?</string>
+    <string name="Login">Login</string>
+    <string name="footer1">By continuing, you agree to MindSpace</string>
+    <string name="footer2">Terms and Conditions and Privacy Policy</string>
+
+    <!--SignIn Screen-->
+    <string name="titleSignIn">Sign In</string>
+    <string name="hintEmail">Enter your Email</string>
+    <string name="hintPassword">Enter your Password</string>
+    <string name="newUser">New user?</string>
+    <string name="register">Sign Up</string>
+    <string name="loginBtn">Sign In</string>
+
+    <!--Intro Screen-->
+    <string name="let_s_start">Let’s Start</string>
+    <string name="start_your_journey_to_a_more_balanced_and_mindful_life_explore_the_benefits_of_improved_emotional_intelligence_stress_management_and_supportive_community">Start your journey to a more balanced and mindful life. Explore the benefits of improved emotional intelligence, stress management, and supportive community</string>
+    <string name="get_start">Get Started</string>
+
+    <!--Home Screen-->
+    <!--Bottom Navigation Panel-->
+    <string name="btnHome">Home</string>
+    <string name="btnMeditate">Meditate</string>
+    <string name="btnExplore">Explore</string>
+    <string name="btnGoals">Goals</string>
+    <string name="btnProfile">Profile</string>
+    <!--Title-->
+    <string name="topTitle">Start your day</string>
+
+    <!--Meditation Tips Screen-->
+    <!--Feature Set One-->
+    <string name="title1">⚡Featured</string>
+    <string name="title2">⚡Sleep Meditations</string>
+    <string name="btnBackToHome">Home</string>
+
+    <!--Profile Screen-->
+    <string name="userInfo">User Information</string>
+    <string name="achieve">Achievements and Milestones</string>
+    <string name="progress">Progress Tracker</string>
+    <string name="stats">Mindfulness Stats</string>
+
+    <!--Profile Screen-->
+    <string name="editTitle">Edit Profile</string>
+    <string name="fname">First Name:</string>
+    <string name="lName">Last Name:</string>
+    <string name="fNameHint">Janindu</string>
+    <string name="lNameHint">Chamod</string>
+
+    <string name="age">Age:</string>
+    <string name="country">Country:</string>
+    <string name="setAge">23</string>
+    <string name="setCountry">Sri Lanka</string>
+
+    <!--Edit-Profile Screen-->
+    <string name="saveButton">Save</string>
+
+    <!--Explore Screen-->
+    <string name="explore_topic1">#Be a Nature Lover</string>
+    <string name="explore_topic2">#Season Changes</string>
+    <string name="explore_topic3">#Lofi Music</string>
+
+    <!--Settings-->
+    <string name="btnLogout">Log out</string>
+
+    <!--Journaling Screen-->
+    <string name="jTitle">Journaling</string>
+    <string name="jSubTitle">Write your Feelings</string>
+    <string name="textarea">Start your journaling here</string>
+    <string name="journalSave">Save</string>
+
+    <string name="radioBtn1">Gratitude Journaling</string>
+    <string name="radioBtn2">Mindful Breathing</string>
+    <string name="radioBtn3">Emotional Check-In</string>
+    <string name="radioBtn4">Nature Observation</string>
+
+    <string name="today" tools:ignore="TypographyDashes">Date : 2024–04-25</string>
+    <string name="journalHint">Today, I am grateful for the warm sunlight that streamed through my window in the morning, giving me a sense of peace. I appreciate the supportive text message from a friend that lifted my spirits. The taste of my favorite tea was comforting and grounding.</string>
+
+    <!--Mood_Tracking Screen-->
+    <string name="mTrack">Mood Tracker</string>
+
+</resources>
